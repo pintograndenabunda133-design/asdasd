@@ -91,3 +91,4 @@ npm start        # liga o bot
 - Vídeos maiores que 25MB não são aceitos no `/video2gif`.
 "# asdasd" 
 "# asdasdaaa" 
+"# asdasdaaa" 
